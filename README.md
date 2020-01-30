@@ -5,14 +5,14 @@ In satellite image classification, we deal with the second kind. The task is to 
 
 ## Data sets descriptions
 ### Deepsat-4 
-   Airborne data sets with 1 m resolution
-   Training size: 4 lakh images, 28 X 28 image each with four channel(Red, green, blue and near infrared)
-   Test size: 1 lakh images, 28 X 28 image each with four channel(Red, green, blue and near infrared)
-   No. of classes: 4, Barren land, Trees, Grassland and a class that consist of all land cover classes other than rest of    three.
+  1. Airborne data sets with 1 m resolution
+  2. Training size: 4 lakh images, 28 X 28 image each with four channel(Red, green, blue and near infrared)
+  3. Test size: 1 lakh images, 28 X 28 image each with four channel(Red, green, blue and near infrared)
+  4. No. of classes: 4, Barren land, Trees, Grassland and a class that consist of all land cover classes other than rest of    three.
 ### Deepsat-6
-   SAT-6 consist of total of 405,000 image patches, each of size 28 X 28 with 1 m resoluton
-   Training size: 28 X 28 X 4 X 32,4000(having 32,4000 training samples of 28 X 28 each with 4 channels)
-   Test size: 28 X 28 X 4 X 81,000(having 81,000 training samples of 28 X 28 each with 4 channels) 
-   No. of classes: 6, Barren land, Trees, Grassland, Road, Buildings and Water bodies
+  1. SAT-6 consist of total of 405,000 image patches, each of size 28 X 28 with 1 m resoluton
+  2. Training size: 28 X 28 X 4 X 32,4000(having 32,4000 training samples of 28 X 28 each with 4 channels)
+  3. Test size: 28 X 28 X 4 X 81,000(having 81,000 training samples of 28 X 28 each with 4 channels) 
+  4. No. of classes: 6, Barren land, Trees, Grassland, Road, Buildings and Water bodies
 
 
